@@ -8,6 +8,10 @@ int main()
 	{
 		printf("Error in printing");
 	}
+
+	//input 2 numbers for math operations
+	//input type of operation on numbers
+	//call calculator function accordingly
 	return 0;
 }
 
