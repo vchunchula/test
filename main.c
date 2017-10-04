@@ -1,5 +1,6 @@
 #include "helper.h"
 #include "calculate.h"
+#include "grocery.h"
 
 int main()
 {
@@ -13,6 +14,8 @@ int main()
 	//input 2 numbers for math operations
 	//input type of operation on numbers
 	//call calculator function accordingly
+	//
+	//implement grocery checklist feature
 	return 0;
 }
 
